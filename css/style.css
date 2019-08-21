@@ -987,6 +987,8 @@ body.offcanvas {
       margin-bottom: 15px; }
       .project .desc h3 a {
         color: #fff; }
+      .project .desc h3 a:hover {
+        color: #FFBB13; }
     .project .desc span {
       display: block;
       color: rgba(255, 255, 255, 0.7);
